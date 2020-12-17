@@ -58,8 +58,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/marispro/uniquewith-validator",
-            "reference": "1626a4505631d00d9c83e83c7b54b7bce5934b86"
+            "url": "https://github.com/marispro/uniquewith-validator"
         }
     ],
     "autoload": {
